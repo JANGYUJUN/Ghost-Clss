@@ -10,8 +10,7 @@
 
 ## 0721 summary
 - textarea 여러줄 입력 텍스트 폼필드
-- input의 두가지 input[type=password], input[type=text] 한줄입력 텍스트 폼 필ㄷ즈
-- button의 3종류: 범용버튼, 리셋버튼, 전송버튼(Submit)
+- input의 두가지 input[type=password], input[type=text] 한줄입력 텍스트 폼 필드
 - 필수요소처리 속성: required
 - 폼요소의 사용자가 입력한 값: value, 안내글 palceholder
 - 드롭다운메뉴: select(option)
